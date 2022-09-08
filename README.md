@@ -1,2 +1,3 @@
 # c-lang-cheatsheet
-A short cheatsheet for the C programming language
+
+Catatan singkat dalam belajar bahasa pemrograman C.
